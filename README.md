@@ -29,3 +29,8 @@
 
 #  Show Product Review's on products page, copy my code & paste where you want to show review star ratings:- 
 <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
+
+
+Star Ratings:- <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
+
+
